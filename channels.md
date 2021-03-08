@@ -11,12 +11,9 @@ Credit to https://github.com/ZeroX-DG
 - `#algorithm` Xin đề phỏng vấn Google bao đậu? ờ trong này hông có đâu :kappa: nhưng nếu bạn stuck hay muốn thảo luận thêm về giải thuật cấu trúc dữ liệu thì hãy tham gia channel này.
 - `#techtoy` Đừng vô đây, tốn kém lắm :okay:
 
----
-Front end dev channels: `#frontend`  `#javascript`
-Back end dev channels: `#backend`
-Mobile dev channels: `#mobile`
-Devops channels: `#devops`
-Channel cho các ngôn ngữ: `#javascript` `#rustlang` `#rubylang` `#golang` `#elixirlang`
----
-Ngoài ra còn có nhiều channel hay ho khác:
-`#living-healthy` `#reading` `#security` `#cryptocurrency-cafe` `#finance-cafe` 
+- Front end dev channels: `#frontend`  `#javascript`
+- Back end dev channels: `#backend`
+- Mobile dev channels: `#mobile`
+- Devops channels: `#devops`
+- Channel cho các ngôn ngữ: `#javascript` `#rustlang` `#rubylang` `#golang` `#elixirlang`
+- Ngoài ra còn có nhiều channel hay ho khác: `#living-healthy` `#reading` `#security` `#cryptocurrency-cafe` `#finance-cafe` 
