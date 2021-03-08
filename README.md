@@ -19,7 +19,7 @@ Những người sáng lập của Webuild mong muốn nơi đây sẽ là nơi 
 - Đừng ngại tham gia thảo luận mà bạn ưa thích với những người mà bạn chưa quen, trước lạ sau quen.
 - Hãy tích cực report những hành vi nào bạn cảm thấy không hay trong group, ban quản trị nhiều khi không có đủ thời gian để theo sát mọi tranh luận
 - Học cách đặt câu hỏi để dễ dàng nhận được câu trả lời (https://www.google.com/search?q=how+to+ask+good+questions&oq=how+to+ask+good+)
-FAQ cho cách đặt câu hỏi tốt: Câu hỏi phải súc tích, không lan man, có đầy đủ các thông tin từ input > implementation > output, tham khảo câu hỏi mẫu. Code phải wrap vào, code nào quá dài thì phải cho vào gist.github.com. Đọc kĩ hướng dẫn của người trả lời trước khi hỏi lại
+. Câu hỏi nên súc tích, không lan man, có đầy đủ các thông tin từ input > implementation > output, tham khảo câu hỏi mẫu. Code nên wrap vào (sử dụng slack triple quote), code nào quá dài thì phải cho vào gist.github.com. Nên đọc kĩ hướng dẫn của người trả lời trước khi hỏi lại
 
 # Những gì không nên nói ở chat-room của Webuild
 - Ở chat room của webuild, tất cả những cuộc hội thoại đi ngược lại giá trị cốt lõi của nhóm đều không được khuyến khích. Đặc biệt các cuộc hội thoại liên quan đến những việc sau đều sẽ dẫn đến việc bị đình chỉ tạm thời hoặc vĩnh viễn :
