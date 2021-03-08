@@ -1,5 +1,3 @@
-Webuild COC
-
 # Về webuild
 Chúng tôi là cộng đồng những người Việt làm trong ngành phần mềm, tiền thân là nhiều cộng đồng nhỏ như Ruby Vietnam, Golang Vietnam, Kipalog
 Những người sáng lập của Webuild mong muốn nơi đây sẽ là nơi giao lưu của những kĩ sư, những người làm sản phẩm, những designer, mà qua đó mỗi thành viên sẽ tìm được góc nhìn kiến thức mới, và có khi sẽ là những ý tưởng mới hay sản phẩm mới.
