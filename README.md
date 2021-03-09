@@ -31,4 +31,4 @@ Những người sáng lập của Webuild mong muốn nơi đây sẽ là nơi 
 - Tự do tôn giáo, tín ngưỡng, đảng phái, chính trị
 - Chia sẻ làm lộ thông tin cá nhân của bản thân hoặc người khác mà không được đồng ý
 
-Đóng góp khiếu nại ở room #feedback, nếu Webuilder không cảm thấy thoải mái chia sẻ ở room public thì có thể liên lạc riêng với một admin.
+Đóng góp khiếu nại ở room #feedbacks, nếu Webuilder không cảm thấy thoải mái chia sẻ ở room public thì có thể liên lạc riêng với một admin.
